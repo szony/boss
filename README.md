@@ -17,7 +17,7 @@ Some desired functionality:
 - monitor single process 
 - define file rotation policy
 
-some commands to run
-   mpstat -P ALL 1 > mpstat.out
-   vmstat -t 1 > vmstat.out
-   sar -u -P ALL -t  1 > sar.out
+some commands to run:
+   - mpstat -P ALL 1 > mpstat.out
+   - vmstat -t 1 > vmstat.out
+   - sar -u -P ALL -t  1 > sar.out
